@@ -1,0 +1,24 @@
+# Product Configuration in WHMCS
+
+#####  
+
+##### Add new product to WHMCS
+
+```
+System Settings->Products/Services->Create a New Product
+```
+
+In the **Module settings** section, select the **"PUQ Mikrotik WireGuard VPN"** module
+
+[![image-1696799626331.png](https://doc.puq.info/uploads/images/gallery/2023-10/scaled-1680-/image-1696799626331.png)](https://doc.puq.info/uploads/images/gallery/2023-10/image-1696799626331.png)
+
+- **License key:** A pre-purchased license key for the **"PUQ Mikrotik WireGuard VPN"** module. For the module to work correctly, the key must be active
+- **WireGuard interface:** A pre-created WireGuard server on a Mikrotik router, which will serve as peers for clients of this service.
+- **Comment PREFIX:** The prefix that will be added to the VPN user's comment on the Mikrotik router
+- **Bandwidth Download:** Download Bandwidth Limit in M/s
+- **Bandwidth Upload:** Upload Bandwidth Limit M/s
+- **DNS Servers:** Option in WireGuard client configuration
+- **AllowedIPs:** Option in WireGuard client configuration
+- **Persistent Keepalive:** Option in WireGuard client configuration
+- **Link to instruction:** Link to the instruction, if filled out, it will be reflected in the client area
+- **Link to VPN clients:** The URL that will be shown to the client in the client panel in order to download the VPN client
