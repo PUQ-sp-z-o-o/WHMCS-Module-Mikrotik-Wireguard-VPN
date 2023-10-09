@@ -1,0 +1,11 @@
+# Home screen
+
+The end customer, after logging in to his own customer panel, has access to the following information and options:
+
+- Link to the user manual (*which was defined by the administrator when setting up the service.*).
+- Link to the VPN clients (*which was defined by the administrator when setting up the service.*).
+- Information about available VPN protocols and statuses
+- Button to download WireGuard client configuration
+- VPN WireGuard clinet configuration text and QR-code
+
+[![image-1696800149533.png](https://doc.puq.info/uploads/images/gallery/2023-10/scaled-1680-/image-1696800149533.png)](https://doc.puq.info/uploads/images/gallery/2023-10/image-1696800149533.png)
