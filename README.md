@@ -26,6 +26,7 @@ Available options in the admin panel:
 - Suspend users
 - Terminate users
 - Unsuspend users
+- Change package
 - VPN connection status
 - Text and QR code configuration types
 
