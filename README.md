@@ -45,6 +45,6 @@ Available options in the client panel:
 
 >Please be aware that to ensure proper functionality of VPN connections, it is essential for you, as an administrator, to correctly configure the Mikrotik router. This entails configuring NAT, Firewall, routing, and all the required settings for VPN to operate correctly on your router.
 
-[![image-1696798205348.png](https://doc.puq.info/uploads/images/gallery/2023-10/scaled-1680-/image-1696798205348.png)](https://doc.puq.info/uploads/images/gallery/2023-10/image-1696798205348.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Mikrotik-Wireguard-VPN/assets/81689153/9af09e88-0e2a-4856-9ee3-754e738390fd)
 
-[![image-1696798218262.png](https://doc.puq.info/uploads/images/gallery/2023-10/scaled-1680-/image-1696798218262.png)](https://doc.puq.info/uploads/images/gallery/2023-10/image-1696798218262.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Mikrotik-Wireguard-VPN/assets/81689153/05da37c0-15c2-4919-a411-572b6fab9757)
