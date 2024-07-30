@@ -29,6 +29,7 @@ Available options in the admin panel:
 - Change package
 - VPN connection status
 - Text and QR code configuration types
+- Metric Billing (Bandwidth Usage In/Out)
 
 Available options in the client panel:
 
